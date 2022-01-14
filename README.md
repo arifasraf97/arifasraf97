@@ -1,7 +1,7 @@
 - 👋 Hello world, I’m @arifasraf97
-- 👀 I’m interested in learning something new
+- 👀 I’m interested in 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
